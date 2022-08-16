@@ -31,3 +31,16 @@ body{
 .box p{
     text-align: justify;
 }
+/*ul{
+    margin:0;
+    padding:0;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 350ms;
+}
+.box li a:hover{
+    color: gray;
+}
