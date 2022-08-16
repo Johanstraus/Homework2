@@ -18,3 +18,16 @@ body{
     width: 200px;
     height: 200px;
 }
+.box h1{
+    font-size: 60px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.box h2{
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.box p{
+    text-align: justify;
+}
