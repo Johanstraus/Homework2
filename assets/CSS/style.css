@@ -10,7 +10,7 @@ body{
     padding: 40px;
     text-align: center;
     margin: auto;
-    color: white;
+    color: #ffffe0;
     font-family: 'Times New Roman', Times, sans-serif;
 }
 .box-img{
@@ -35,6 +35,9 @@ ul{
     margin:0;
     padding:0;
     list-style: none;
+}
+.box li{
+    display: inline-block;
 }
 .box li a{
     color: white;
