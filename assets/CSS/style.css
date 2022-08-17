@@ -36,9 +36,6 @@ ul{
     padding:0;
     list-style: none;
 }
-.box li{
-    display: inline-block;
-}
 .box li a{
     color: white;
     text-decoration: none;
@@ -46,5 +43,5 @@ ul{
     transition: all ease-in-out 50ms;
 }
 .box li a:hover{
-    color: gray;
+    color: blue;
 }
