@@ -8,3 +8,6 @@ This will include:
   Functional CSS that wil changed/style page to my satisfatory. 
   Will have functionals links to my personal GitHub and LinkedIn. 
   Will have a brief informative section about myself. 
+
+
+https://johanstraus.github.io/Homework2/
