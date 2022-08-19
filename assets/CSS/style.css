@@ -47,15 +47,16 @@ ul{
     color: blue;
 }
 .topbar{
-    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
     padding: 8px;
     height: 22px;
     background-color: lightskyblue;
-}
-.topbar ol{ 
-    display: inline;
-    float: left;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 .button{
     font-family: 'Times New Roman', Times, serif;
