@@ -17,3 +17,7 @@
 .topbar a:hover {
     color: black;
 }
+body{
+    background-image: url(assets/Image/bg.jpg);
+    background-color: #f1f1f1;
+}
